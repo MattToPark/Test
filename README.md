@@ -1,4 +1,3 @@
 # Test
 
-This is the second version of this file.
-A test for forking, pulling, modifying, and merging.
+This is the third version of this file to test syncing.
