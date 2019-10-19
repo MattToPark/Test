@@ -1,3 +1,4 @@
 # Test
 
-This is the first version of this file.
+This is the second version of this file.
+A test for forking, pulling, modifying, and merging.
